@@ -5,3 +5,4 @@ PYTHON LAB 1
 4. PROGRAM TO MAKE A SIMPLE CALCULATOR 
 PYTHON LAB 2
 1.write a program to generate Fibonacci series
+2.write a program to calculate factorial using a loop
