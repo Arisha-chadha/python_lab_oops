@@ -8,3 +8,4 @@ PYTHON LAB 1
 PYTHON LAB 2
 1.write a program to generate Fibonacci series
 2.write a program to calculate factorial using a loop
+3.write a program to check if the given number is armstrong number or not
