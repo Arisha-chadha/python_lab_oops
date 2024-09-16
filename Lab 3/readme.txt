@@ -4,4 +4,4 @@ Python Lab3:
 14. Write a program to Print Armstrong Number from 1 to 1000.
 15. Write a program to Compute the Value of Xn.
 16. Write a program to Calculate the value of nCr.
-17.  Write a program to count the sum of digits in the entered number.
+17. Write a program to count the sum of digits in the entered number.
