@@ -1,5 +1,4 @@
-#Pattern #2: Inverted Pyramid of Numbers
-#Pattern:
+# Inverted Pyramid of Numbers
 #1 1 1 1 1 
 # 2 2 2 2 
 #  3 3 3 
