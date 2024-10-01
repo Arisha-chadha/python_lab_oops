@@ -1,4 +1,4 @@
-#2.	Write a program to do the following
+#Write a program to do the following
 #A. To separate the following string into comma (,) separated values. X= “ India.is.my.country”
 #B. To remove a given character from a string. Y=”M.A.N.I.P.A.L” 
 #C. To remove the (.) dots from the above string.
