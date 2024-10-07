@@ -26,7 +26,7 @@ class BankAccount:
 account = BankAccount("John Doe", 1000)
 
 # Performing operations
-account.check_balance()  # Check initial balance
-account.deposit(500)     # Deposit money
-account.withdraw(300)    # Withdraw money
-account.check_balance()  # Check final balance
+account.check_balance()  
+account.deposit(500)     
+account.withdraw(300)   
+account.check_balance()  
