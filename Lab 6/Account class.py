@@ -22,10 +22,7 @@ class BankAccount:
     def check_balance(self):
         print(f"Account balance: {self.balance}")
 
-# Creating a bank account object
 account = BankAccount("John Doe", 1000)
-
-# Performing operations
 account.check_balance()  
 account.deposit(500)     
 account.withdraw(300)   
